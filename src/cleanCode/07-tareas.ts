@@ -28,10 +28,6 @@
         removeValue() {};
     }
 
-    interface InputElementProps {
-
-    }
-
     class InputElement {
         public attributes   : InputAttributes;
         public html         : HtmlElement;
